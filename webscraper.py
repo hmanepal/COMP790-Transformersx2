@@ -8,10 +8,10 @@ def create_transformers_dataset():
     
     # List of Transformers characters with their search terms in quotes
     characters = {
-        "Optimus_Prime": "'Optimus Prime'",  # Using single quotes instead
-        "Bumblebee": "Bumblebee",
-        "Megatron": "Megatron",
-        "Starscream": "Starscream"
+        "Optimus_Prime": "'Optimus Prime Transformers'",  # Using single quotes instead
+        "Bumblebee": " 'Bumblebee Transformers'",
+        "Megatron": "'Megatron Transformers'",
+        "Starscream": "'Starscream Transformers'"
     }
     
     # Base directory for the dataset
